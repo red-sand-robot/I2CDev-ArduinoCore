@@ -51,7 +51,7 @@ THE SOFTWARE.
 // I2C interface implementation setting
 // -----------------------------------------------------------------------------
 #ifndef I2CDEV_IMPLEMENTATION
-#define I2CDEV_IMPLEMENTATION       I2CDEV_ARDUINO_WIRE
+//#define I2CDEV_IMPLEMENTATION       I2CDEV_ARDUINO_WIRE
 //#define I2CDEV_IMPLEMENTATION       I2CDEV_TEENSY_3X_WIRE
 //#define I2CDEV_IMPLEMENTATION       I2CDEV_BUILTIN_SBWIRE
 //#define I2CDEV_IMPLEMENTATION       I2CDEV_BUILTIN_FASTWIRE
